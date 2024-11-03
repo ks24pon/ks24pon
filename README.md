@@ -14,7 +14,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,go,docker,mysql,postgres,ruby,rails,php,laravel,postman,tailwind,jquery,notion,git,github,gitlab,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,go,docker,mysql,postgres,ruby,rails,php,laravel,postman,tailwind,jquery,backbonejs,notion,git,github,gitlab,figma" />
 <br>
 
 <p align="left">
