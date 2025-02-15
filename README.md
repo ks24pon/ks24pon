@@ -7,7 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RrMndhZTg5N201cThtd2lyaTlzNzhkZHBsNGtqZjJmMjgydzA1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIcNvyoZ1nGLpnti8W/giphy.gif" width="125">
-- 🧑‍💻 I'm a backend engineer
+- 🧑‍💻 I'm a backend engineer<br>
 - 📩 How to reach me: [Twitter - @username](https://twitter.com/makudo_24)
 
 
