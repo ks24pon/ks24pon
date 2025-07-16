@@ -9,7 +9,6 @@
 
 - 🧑‍💻 I'm a backend engineer <br>
 - ☕️🧖 Hobbies are coffee and sauna <br>
-- 📩 Please contact us here:(https://twitter.com/makudo_24)
 
 
 <!-- 3. 好きな技術スタックに変更 -->
