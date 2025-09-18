@@ -37,14 +37,3 @@
     <img height="20" src="https://badgen.org/img/zenn/r24/articles?style=plastic" />
   </a>
 </p>
-
-
-
-<p align="left">
-  <a href="https://github.com/ks24pon">
-    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://qiita.com/mak_24">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/posts.svg" />
-  </a>
-</p>
