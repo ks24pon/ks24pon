@@ -20,7 +20,6 @@
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ks24pon&theme=vue-dark&layout=compact" />
   <img alt="Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks24pon&theme=vue-dark&layout=compact" />
 </div>
 
