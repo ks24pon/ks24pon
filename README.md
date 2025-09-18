@@ -30,7 +30,7 @@
   <a href="https://github.com/ks24pon">
     <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/ks24pon">
+  <a href="https://qiita.com/mak_24">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ks24pon/posts.svg" />
   </a>
   <a href="http://qiita.com/ks24pon">
