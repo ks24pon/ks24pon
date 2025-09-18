@@ -23,6 +23,25 @@
   <img alt="Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks24pon&theme=vue-dark&layout=compact" />
 </div>
 
+<p align="left">
+  <a href="https://github.com/ks24pon">
+    <img height="20" src="https://komarev.com/ghpvc/?username=ks24pon" />
+  </a>
+  <a href="https://github.com/ks24pon">
+    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/ks24pon">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ks24pon/posts.svg" />
+  </a>
+  <a href="http://qiita.com/ks24pon">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ks24pon/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/ks24pon">
+    <img height="20" src="https://badgen.org/img/zenn/ks24pon/articles?style=plastic" />
+  </a>
+</p>
+
+
 
 <p align="left">
   <a href="https://github.com/ks24pon">
