@@ -37,3 +37,14 @@
     <img height="20" src="https://badgen.org/img/zenn/r24/articles?style=plastic" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks24pon&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ks24pon&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ks24pon&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ks24pon&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ks24pon&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=ks24pon&theme=gruvbox)
+
