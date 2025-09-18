@@ -36,8 +36,8 @@
   <a href="http://qiita.com/ks24pon">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ks24pon/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/ks24pon">
-    <img height="20" src="https://badgen.org/img/zenn/ks24pon/articles?style=plastic" />
+  <a href="https://zenn.dev/r24">
+    <img height="20" src="https://badgen.org/img/zenn/r24/articles?style=plastic" />
   </a>
 </p>
 
