@@ -48,6 +48,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ks24pon&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ks24pon&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ks24pon&theme=gruvbox)
-
