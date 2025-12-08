@@ -8,7 +8,9 @@
 
 - Backend engineer specializing in Go / Ruby on Rails  
 - Interested in distributed systems, performance tuning, and cloud infra  
-- Hobbies: Coffee, Sauna, and building small products ☕🧖‍♂️  
+- Currently learning computer science fundamentals independently 👩‍💻
+- Hobbies: Coffee, Sauna, and building small products ☕🧖‍♂️
+
 
 ## 🌱 Skills
 
