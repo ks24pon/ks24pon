@@ -15,7 +15,7 @@
 ## 🌱 Skills
 
 ### 🔧 Main Stack  
-<img src="https://skillicons.dev/icons?i=go,echo,ruby,rails,docker,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,ruby,rails,docker,mysql&theme=dark" />
 
 Go / Ruby on Rails / Docker / MySQL
 
