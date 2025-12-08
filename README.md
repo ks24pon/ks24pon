@@ -3,20 +3,35 @@
   <img src="https://komarev.com/ghpvc/?username=ks24pon" />
 </div>
 
-
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there
 
-- 🧑‍💻 I'm a backend engineer <br>
-- ☕️🧖 Hobbies are coffee and sauna <br>
+- Backend engineer specializing in Go / Ruby on Rails  
+- Interested in distributed systems, performance tuning, and cloud infra  
+- Hobbies: Coffee, Sauna, and building small products ☕🧖‍♂️  
 
-
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,go,php,docker,mysql,python,javascript,postgres,ruby,rails,laravel,postman,tailwind,jquery,notion,git,github,gitlab,figma" />
-<br>
+
+### 🔧 Main Stack  
+<img src="https://skillicons.dev/icons?i=go,ruby,rails,docker,mysql&theme=dark" />
+
+Go / Ruby on Rails / Docker / MySQL
+
+---
+
+### 🛠 Other Skills  
+<img src="https://skillicons.dev/icons?i=python,php,postgres,js,tailwind&theme=dark" />
+
+JavaScript / Python / PHP / PostgreSQL / Tailwind CSS
+
+---
+
+### 🎨 Tools  
+<img src="https://skillicons.dev/icons?i=github,git,postman,figma,notion&theme=dark" />
+
+Git / GitHub / Postman / Figma / Notion
+
+
 
 ## 🏃‍♀️ Activities
 
@@ -28,7 +43,7 @@
     <img height="20" src="https://komarev.com/ghpvc/?username=ks24pon" />
   </a>
   <a href="https://github.com/ks24pon">
-    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/ks24pon?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://qiita.com/mak_24">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ks24pon/posts.svg" />
@@ -39,9 +54,9 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks24pon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ks24pon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ks24pon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ks24pon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ks24pon&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks24pon&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ks24pon&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ks24pon&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ks24pon&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ks24pon&theme=solarized&utcOffset=9)
 
