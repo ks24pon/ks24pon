@@ -6,10 +6,10 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there
 
-- Backend engineer specializing in Go / Ruby on Rails  
-- Interested in distributed systems, performance tuning, and cloud infra  
-- Currently learning computer science fundamentals independently 👩‍💻
-- Hobbies: Coffee, Sauna, and building small products ☕🧖‍♂️
+- Backend engineer specializing in Go and Ruby on Rails.
+- Interested in distributed systems, performance tuning, and cloud infrastructure.
+- Currently studying computer science fundamentals at a school 👩‍💻
+- Hobbies: coffee, sauna, and building small products ☕🧖‍♂️
 
 
 ## 🌱 Skills
